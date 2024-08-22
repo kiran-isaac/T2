@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "type": "gdb",
+      "request": "launch",
+      "name": "GDB",
+      "program": "${workspaceFolder}/build/main",
+      "arguments": "1163751742\n1381373672\n2136511328\n3694931569\n7463417111\n1319128137\n1359912421
+      3125421639
+1293138521
+2311944581",
+      "stopOnEntry": true
+    }
+  ]
+}
